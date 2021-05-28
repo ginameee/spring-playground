@@ -12,6 +12,12 @@
     - MVC 템플릿 엔진
     - API
 
+-  회원관리 예제
+    - [비지니스 요구사항, 일반적인 웹 애플리케이션 계층 구조](https://www.notion.so/424dd23147a7492793030b765d73c435)
+    - 회원 도메인과 리포지토리 만들기
+    - 회원 리포지토리 테스트 케이스 작성
+    - 회원 서비스 개발
+    - 회원 서비스 테스트
 
 ## Reference
 https://spring.io - project - spring boot - learn tab - version select - reference documents
