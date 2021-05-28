@@ -7,6 +7,11 @@
     - [View 환경설정](https://www.notion.so/5-View-cf3ce685366a4235ac0221dfb93aaac5)
     - [빌드하고 실행하기](https://www.notion.so/6-4aba2dc670cc4e1c8bc3120793a5c87f)
 
+- [스프링 웹 개발 기초](https://www.notion.so/ceff33ea262442f88171bd19854ee538)
+    - 정적 컨텐츠
+    - MVC 템플릿 엔진
+    - API
+
 
 ## Reference
 https://spring.io - project - spring boot - learn tab - version select - reference documents
