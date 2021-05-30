@@ -16,8 +16,8 @@
     - [비지니스 요구사항, 일반적인 웹 애플리케이션 계층 구조](https://www.notion.so/424dd23147a7492793030b765d73c435)
     - 회원 도메인과 리포지토리 만들기
     - [회원 리포지토리 테스트 케이스 작성](https://www.notion.so/11-9714ade5861d44188a93bbdc461e7959)
-    - 회원 서비스 개발
-    - 회원 서비스 테스트
-
+    - [회원 서비스 개발](https://www.notion.so/12-73c9ee0f55fb481897afae4a2647c5dd)
+    - [회원 서비스 테스트](https://www.notion.so/14-8921b53f4e524e06a9af6ec488b2b5cf)
+    
 ## Reference
 https://spring.io - project - spring boot - learn tab - version select - reference documents
