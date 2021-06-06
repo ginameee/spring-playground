@@ -12,13 +12,16 @@
     - MVC 템플릿 엔진
     - API
 
--  회원관리 예제
+-  회원관리 예제 [백엔드 개발]
     - [비지니스 요구사항, 일반적인 웹 애플리케이션 계층 구조](https://www.notion.so/424dd23147a7492793030b765d73c435)
     - 회원 도메인과 리포지토리 만들기
     - [회원 리포지토리 테스트 케이스 작성](https://www.notion.so/11-9714ade5861d44188a93bbdc461e7959)
     - [회원 서비스 개발](https://www.notion.so/12-73c9ee0f55fb481897afae4a2647c5dd)
     - [회원 서비스 테스트](https://www.notion.so/14-8921b53f4e524e06a9af6ec488b2b5cf)
-    - [컴포넌트 스캔과 자동 의존관계 설정]()
+    
+- 스프링 빈과 의존관계
+    - [컴포넌트 스캔과 자동 의존관계 설정](https://www.notion.so/15-da0793c49c2541519c6b6f7274134582)
+    - [자바 코드로 직접 스프링 빈 등록하기](https://www.notion.so/16-c9475e7a0eec4ba9b94322b5607f50f9)
     
 ## Reference
 https://spring.io - project - spring boot - learn tab - version select - reference documents
