@@ -23,5 +23,10 @@
     - [컴포넌트 스캔과 자동 의존관계 설정](https://www.notion.so/15-da0793c49c2541519c6b6f7274134582)
     - [자바 코드로 직접 스프링 빈 등록하기](https://www.notion.so/16-c9475e7a0eec4ba9b94322b5607f50f9)
     
+- 회원 관리 예제 [웹 MVC 개발]
+    - 홈 화면 추가
+    - 등록
+    - 조회 
+     
 ## Reference
 https://spring.io - project - spring boot - learn tab - version select - reference documents
